@@ -14,6 +14,7 @@ Examen Final	30%
 •	Eva 4 - 25%
 
 ![HOLA](./src/img/ingreso-notas.png)
+
 Insertando datos:
 ![HOLA](./src/img/insertando.png)
 
