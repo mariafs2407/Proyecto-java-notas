@@ -15,7 +15,7 @@ Examen Final	30%
 
 ![HOLA](./src/img/ingreso-notas.png)
 
-Insertando datos:
+Insertando datos de las notas:
 ![HOLA](./src/img/insertando.png)
 
 Validando nombre del curso y del alumno:
